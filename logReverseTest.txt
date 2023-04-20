@@ -1,0 +1,7 @@
+Reversed file contents: 
+58
+12
+19
+42
+12
+End of file.
